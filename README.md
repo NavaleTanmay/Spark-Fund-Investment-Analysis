@@ -1,0 +1,2 @@
+# Spark-Fund-Investment-Analysis
+Company invest where most other investors are investing. This pattern is often observed among early stage startup investors. The objective is to identify the best sectors, countries, and a suitable investment type for making investments. The overall strategy is to invest where others are investing, implying that the 'best' sectors and countries are the ones 'where most investors are investing'. 
